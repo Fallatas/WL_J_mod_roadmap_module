@@ -13,3 +13,6 @@ JHtml::_('stylesheet', 'mod_wl_roadmap_module/style.css', array('version' => 'au
 JHtml::_('script', 'mod_wl_roadmap_module/scripts.js', array('version' => 'auto', 'relative' => true));
 JHtml::_('jQuery.Framework');
 ?>
+<div id="wl_roadmap_module">
+    <span>Content</span>
+</div>
