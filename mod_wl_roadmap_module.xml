@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="module" version="3.5" client="administrator" method="upgrade">
+<extension type="module" version="4.0" client="administrator" method="upgrade">
     <name>mod_wl_roadmap_module</name>
     <creationDate>12.11.2019</creationDate>
     <author>Thomas Winterling</author>
